@@ -27,7 +27,7 @@ Public Class Form1
 
         rp(0) = ping.Send("192.168.23.100")
         rp(1) = ping.Send("www.windows.com")
-        rp(2) = ping.Send("www.thehun.net")
+        rp(2) = ping.Send("www.google.com")
 
     End Sub
 
